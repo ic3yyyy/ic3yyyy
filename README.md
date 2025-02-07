@@ -1,21 +1,77 @@
-## Hi there niggers 👋
+# 👋 Olá! Eu sou Mateus Henrique Leccese
 
+Bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará projetos que refletem meu aprendizado, habilidades e paixões na área de tecnologia e estou sempre em busca de novos desafios e oportunidades para crescer.
 
+---
 
-## - Projects: 
+## 💻 Sobre mim 
 
-### [Babbun's Finances: 🐒](https://github.com/BabbunsFinances/future-fest)
-<!--
-**ic3yyyy/ic3yyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Atualmente, estou aprendendo Python e Data Science.  
+- 🎯 Meu foco está em explorar as possibilidades de análise de dados, aprendizado de máquina e ciência de dados.
+- 🚀 Adoro criar projetos que resolvem problemas reais e explorar novas tecnologias.  
+- 📚 Apaixonado por tecnologia, programação e desenvolvimento contínuo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas  
+
+Aqui estão algumas tecnologias que utilizo:
+
+- **Frontend**: [ex.: HTML, CSS, JavaScript, etc.]  
+- **Backend**: [ex.: Node.js, Python, etc.]  
+- **Banco de Dados**: [ex.: MySQL, MongoDB, etc.]  
+- **Outras Ferramentas**: [ex.: Git, Power BI, etc.]  
+
+---
+
+## 🌟 Projetos em destaque  
+
+Aqui estão alguns projetos que tenho orgulho de compartilhar:
+
+1. **[Python 🐍](https://github.com/mateus-henriquee/python)**: Meu Repositório Focado Especificadamente Em Projetos Python Desenvolvidos Por Mim
+
+Sinta-se à vontade para explorar os repositórios e deixar seu feedback! 😊
+
+Não se esqueça de deixar sua estrela ! 🌟 
+ 
+---
+
+## 🌐 Entre em contato
+
+- 📧 E-mail: **[mateush.leccese@gmail.com]**  
+- 💼 LinkedIn: [Mateus Henrique (Meu LinkedIn)](https://www.linkedin.com/in/devmateus-henriquee/) 
+- 🌟 Vamos colaborar? Estou sempre aberto a novas ideias e projetos.
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" />
+</div>
+
+</div>
+
+---
+
+⭐ **Se você gostou dos meus projetos, não esqueça de dar uma estrela!**  
+
+Obrigado por visitar meu perfil! 😊  
