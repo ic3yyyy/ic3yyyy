@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos que faç
 
 ## 💻 Sobre mim 
 
-- 👨‍💻 Atualmente, estou aprendendo Python e Data Science.  
+- 👨‍💻 Estou aprendendo Games e apps mobile.  
 - 🎯 Meu foco está em explorar as possibilidades de análise de dados, aprendizado de máquina e ciência de dados.
 - 🚀 Adoro criar projetos que resolvem problemas reais e explorar novas tecnologias.  
 - 📚 Apaixonado por tecnologia, programação e desenvolvimento contínuo.
@@ -21,7 +21,7 @@ Aqui estão algumas tecnologias que utilizo:
 - **Backend**: [ex.: Node.js, Python, etc.]  
 - **Banco de Dados**: [ex.: MySQL, MongoDB, etc.]  
 - **Outras Ferramentas**: [ex.: Git, Power BI, etc.]  
-
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ic3yyyy&layout=compact&theme=slateorange&bg_border_color=2f2f2f&cache_seconds=600)
 ---
 
 ## 🌟 Projetos em destaque  
