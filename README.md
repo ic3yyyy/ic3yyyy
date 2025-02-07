@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou Mateus Henrique Leccese
+# 👋🏽 Olá! Eu sou Arthur Alexandre Felisberto de Oliveira
 
-Bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará projetos que refletem meu aprendizado, habilidades e paixões na área de tecnologia e estou sempre em busca de novos desafios e oportunidades para crescer.
+Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos que faço no meu tempo livre, projetos pedagógicos para a escola e alguns projetos pessoais feitos por hobby só para diversão.
 
 ---
 
