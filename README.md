@@ -4,7 +4,7 @@
 
 ## - Projects: 
 
-### Babbun's Finances: 🐒](https://github.com/BabbunsFinances)
+### [Babbun's Finances: 🐒](https://github.com/BabbunsFinances)
 <!--
 **ic3yyyy/ic3yyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
