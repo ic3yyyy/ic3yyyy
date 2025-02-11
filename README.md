@@ -1,10 +1,10 @@
 # 👋🏽 Olá! Eu sou Arthur Alexandre Felisberto de Oliveira
 
-Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos que faço no meu tempo livre, projetos pedagógicos para a escola e alguns projetos pessoais feitos por hobby só para diversão.
+Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos que faço no meu tempo livre, projetos pedagógicos para a escola e alguns projetos pessoais feitos por hobby só para diversão.
 
 ---
 
-## 💻 Sobre mim 
+## Sobre mim 💻
 
 - 👨‍💻 Estou aprendendo Games e apps mobile.  
 - 🎯 Meu foco está em explorar as possibilidades de análise de dados, aprendizado de máquina e ciência de dados.
@@ -36,11 +36,10 @@ Não se esqueça de deixar sua estrela ! 🌟
  
 ---
 
-## 🌐 Entre em contato
+## Meus contatos 🌐
 
-- 📧 E-mail: **[mateush.leccese@gmail.com]**  
+- 📧 E-mail: **[arthuralfo0@gmail.com]**  
 - 💼 LinkedIn: [Mateus Henrique (Meu LinkedIn)](https://www.linkedin.com/in/devmateus-henriquee/) 
-- 🌟 Vamos colaborar? Estou sempre aberto a novas ideias e projetos.
 
 ###
 
