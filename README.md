@@ -1,4 +1,4 @@
-# 👋🏽 Olá! Eu sou Arthur Alexandre Felisberto de Oliveira
+# Olá! Eu sou Arthur Alexandre Felisberto de Oliveira 👋🏽
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos que faço no meu tempo livre, projetos pedagógicos para a escola e alguns projetos pessoais feitos por hobby só para diversão.
 
@@ -6,55 +6,42 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos que faço no 
 
 ## Sobre mim 💻
 
-- 👨‍💻 Estou aprendendo Games e apps mobile.  
-- 🎯 Meu foco está em explorar as possibilidades de análise de dados, aprendizado de máquina e ciência de dados.
-- 🚀 Adoro criar projetos que resolvem problemas reais e explorar novas tecnologias.  
-- 📚 Apaixonado por tecnologia, programação e desenvolvimento contínuo.
+- Estou aprendendo Games e apps mobile.  
+- Meu foco está na criação e design de sites, aprendizado de máquina programação de games.
+- Gosto de criar projetos que resolvem problemas reais.  
 
 ---
 
-## 🚀 Tecnologias e Ferramentas  
+## Tecnologias e Ferramentas 🚀
 
-Aqui estão algumas tecnologias que utilizo:
+Algumas das tecnologias que utilizo são:
 
-- **Frontend**: [ex.: HTML, CSS, JavaScript, etc.]  
-- **Backend**: [ex.: Node.js, Python, etc.]  
-- **Banco de Dados**: [ex.: MySQL, MongoDB, etc.]  
+- **Frontend**: [ex.: HTML e CSS]  
+- **Backend**: [ex.: Node.jse JavaScript]  
+- **Banco de Dados**: [ex.: MySQL e MongoDB]  
 - **Outras Ferramentas**: [ex.: Git, Power BI, etc.]  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ic3yyyy&layout=compact&theme=slateorange&bg_border_color=2f2f2f&cache_seconds=600)
----
 
-## 🌟 Projetos em destaque  
+  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ic3yyyy&layout=compact&theme=slateorange&bg_border_color=2f2f2f&cache_seconds=600)
 
-Aqui estão alguns projetos que tenho orgulho de compartilhar:
-
-1. **[Python 🐍](https://github.com/mateus-henriquee/python)**: Meu Repositório Focado Especificadamente Em Projetos Python Desenvolvidos Por Mim
-
-Sinta-se à vontade para explorar os repositórios e deixar seu feedback! 😊
-
-Não se esqueça de deixar sua estrela ! 🌟 
- 
 ---
 
 ## Meus contatos 🌐
 
-- 📧 E-mail: **[arthuralfo0@gmail.com]**  
-- 💼 LinkedIn: [Mateus Henrique (Meu LinkedIn)](https://www.linkedin.com/in/devmateus-henriquee/) 
+- E-mail: **[arthuralfo0@gmail.com]**  
+- LinkedIn: [Mateus Henrique (Meu LinkedIn)](https://www.linkedin.com/in/devmateus-henriquee/) 
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="30"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="30"/>
   <img width="12" />
@@ -71,6 +58,5 @@ Não se esqueça de deixar sua estrela ! 🌟
 
 ---
 
-⭐ **Se você gostou dos meus projetos, não esqueça de dar uma estrela!**  
 
-Obrigado por visitar meu perfil! 😊  
+Obrigado por visitar meu perfil!  
