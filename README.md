@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos que faço no 
 
 Algumas das tecnologias que utilizo são:
 
-- **Frontend**: [ex.: HTML e CSS]  
+- **Frontend**:  HTML e CSS 
 - **Backend**: [ex.: Node.jse JavaScript]  
 - **Banco de Dados**: [ex.: MySQL e MongoDB]  
 - **Games**: [ex.: Unity]  
@@ -28,7 +28,7 @@ Algumas das tecnologias que utilizo são:
 ## Meus contatos 🌐
 
 - E-mail: **[arthuralfo0@gmail.com]**  
-- LinkedIn: [Arthur Oliveira (Meu LinkedIn)](https://www.linkedin.com/in/arthur-oliveira-5b3551334/) 
+- LinkedIn: [Arthur Oliveira](https://www.linkedin.com/in/arthur-oliveira-5b3551334/) 
 
 ###
 
