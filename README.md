@@ -16,10 +16,10 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos que faço no 
 
 Algumas das tecnologias que utilizo são:
 
-- **Frontend**:  HTML e CSS 
-- **Backend**: [ex.: Node.jse JavaScript]  
-- **Banco de Dados**: [ex.: MySQL e MongoDB]  
-- **Games**: [ex.: Unity]  
+- **Frontend**: HTML e CSS 
+- **Backend**: Node.js e JavaScript  
+- **Banco de Dados**: MySQL e MongoDB  
+- **Games**: Unity
 
   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ic3yyyy&layout=compact&theme=slateorange&bg_border_color=2f2f2f&cache_seconds=600)
 
