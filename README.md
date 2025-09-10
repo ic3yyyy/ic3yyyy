@@ -28,7 +28,7 @@ Algumas das tecnologias que utilizo são:
 ## Meus contatos 🌐
 
 - E-mail: **arthuralfo0@gmail.com**  
-- LinkedIn: [Arthur Oliveira](https://www.linkedin.com/in/arthur-oliveira-5b3551334/) 
+- LinkedIn: [Arthur Oliveira](https://www.linkedin.com/in/arthur-felisberto/) 
 
 ###
 
